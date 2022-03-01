@@ -1,0 +1,206 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The inclosing of Jarrowslike and making ballast-shores on it, will greatly advantage the river Tyne and all ships trading to that port and be no real damage to any unless it be so, to some perticular ballast-wharfs already made on the river in places not so fit for that use as this will be when tis done : the preservation of the river, or what may any way damage the trade of Newcastle in general, being intended to be provided for in the bill.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09002</idno>
+            <idno type="STC">Wing E722AA</idno>
+            <idno type="STC">ESTC R174972</idno>
+            <idno type="EEBO-CITATION">62369182</idno>
+            <idno type="OCLC">ocm 62369182</idno>
+            <idno type="VID">187880</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09002)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187880)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2847:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The inclosing of Jarrowslike and making ballast-shores on it, will greatly advantage the river Tyne and all ships trading to that port and be no real damage to any unless it be so, to some perticular ballast-wharfs already made on the river in places not so fit for that use as this will be when tis done : the preservation of the river, or what may any way damage the trade of Newcastle in general, being intended to be provided for in the bill.</title>
+                  <author>Trinity House (London, England).</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : map.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballast (Ships).</term>
+               <term>Mooring of ships --  England --  Early works to 1800.</term>
+               <term>Tyne, River (England).</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition_for_making_the_Tyne_River_navigable">
+            <pb facs="tcp:187880:1"/>
+            <p>THe incloſing of <hi>Jarrowſlike</hi> and making Ballaſt-ſhores on it, will greatly advantage the River <hi>Tyne</hi> and all Ships Trading to that Port, and be no real Damage to any, unleſs it be ſo, to ſome Perticular Ballast-Wharfs already made on the River in places not ſo fit for that <g ref="char:V">Ʋ</g>ſe as this will be when tis done: The Preſervation of the River, or what may any way damage the Trade of <hi>Newcaſtle</hi> in general, being intended to be provided for in the Bill.</p>
+            <div type="part">
+               <head>The Reports and Reaſons of the <hi>Trinity-Houſe,</hi> &amp;c.</head>
+               <p>ACCording to Your Majeſties Order in Council, bearing date <hi>Auguſt</hi> the 5th. We have conſidered of the Allegations of Sir <hi>Charles Adderly</hi> Knight, and <hi>John Crook</hi> Eſquire, concerning the erect<g ref="char:EOLhyphen"/>ing of a Ballaſt-ſhoar at <hi>Jarrowes-Slake</hi> near <hi>South-Sheild</hi> in the county o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Dureſme;</hi> And do Hum<g ref="char:EOLhyphen"/>bly make our Report that we are of opinion, That a Ballaſt-Wharf at <hi>South-Sheilds</hi> will be of great uſe and benefit to all ſhips Trading in the River <hi>Tine</hi> 
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or coals, for theſe Reaſons.</p>
+               <p>Firſt, That it will prevent the loſs of ſhips in their coming for <hi>Tinmouth-bar,</hi> for that they have, and do at this day, caſt out great part of their ballast before they come to the bar, ſo to avoid the great charge after they are in the River of carrying up their ballaſt in Keels to <hi>Newcaſtle,</hi> after which meet<g ref="char:EOLhyphen"/>ing with foul Weather, they have many times been caſt away by reaſon of their Lightneſs.</p>
+               <p>2ly, It will be a means to ſecure great ſhips from the caſualties which befall them, by their coming a Ground many have been Lost going up or coming down the River; at Leaſt, it will prevent the wronging of them when they lye on hard Ground or Rocks, going to, or coming from <hi>Newcaſtle,</hi> where<g ref="char:EOLhyphen"/>by the ſhips will last the longer; and it will alſo give them a much quicker diſpatch in their Voyages.</p>
+               <p>3ly, It will be an Encouragement for Men to build great ſhips for that Trade, ſuch as may be uſeful for defence of the Kingdom in time of War, and much more proper for that Trade than ſmall Veſſels.</p>
+               <p>4ly, That the Price of taking out the ballaſt at <hi>Sheilds</hi> being moderately ſet, It will be a great In<g ref="char:EOLhyphen"/>couragement to Navigation, for that the price of taking it out by the Town of <hi>Newcaſtle</hi> is very high.</p>
+               <p>5ly, That by means hereof Maſters of ſhips may make two or three Voyages more in a year, the charge of taking out their ballaſt being leſsned, and the time of going up the River being ſaved and their ſhips hereby the better preſerved, and being great Ships moſt proper for that Trade, they may ſell Coals much cheaper to the benefit of the Publick, and get more money to their Owners than now they do, and all this with leſs hazard; All which we Humbly ſubmit to Your Sacred Majeſties moſt prudent Conſideration.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Thomas Middleton</item>
+                        <item>William Wilecy</item>
+                        <item>Edward Criſpe <hi>Deputy Mr.</hi>
+                        </item>
+                        <item>Henry Shears D. Warden,</item>
+                        <item>Henry Teddiman</item>
+                        <item>
+                           <list>
+                              <head>Wardens.</head>
+                              <item>John Cox</item>
+                              <item>Edward Seaman</item>
+                           </list>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="map">
+               <pb facs="tcp:187880:1"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a section of the Tyne River</figDesc>
+                     <p>The River of Tyne</p>
+                     <p>y<hi rend="sup">e</hi> Way from Tinmouth barr</p>
+                     <p>Part of South Sheeles</p>
+                     <p>the New Shore</p>
+                     <p>Eaſt Dock</p>
+                     <p>Iarro buoy</p>
+                     <p>Weſt Dock</p>
+                     <p>
+                        <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>thill <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>oint</p>
+                     <p>Flatworthnes point</p>
+                     <p>Hay hole</p>
+                     <p>Heere you may ſee the River is narrower both above and below then it is at y<hi rend="sup">e</hi> New-ſhore</p>
+                     <p>Iarro Point</p>
+                     <p>y<hi rend="sup">e</hi> Way to Newcastle</p>
+                     <p>Iarro Slike ſurveyed An<g ref="char:cmbAbbrStroke">̄</g>o Dni<g ref="char:cmbAbbrStroke">̄</g> 1668/9 Cont': 299<hi rend="sup">A</hi>: <gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>: 23: of Statut meaſure and is every Tide Covered with water and lies dry when the Tide is out</p>
+                     <p>This Ground to y<hi rend="sup">e</hi> Low water mark doth by an undoubted title belong to y<hi rend="sup">e</hi> Deane and Chapter of Durham<g ref="char:punc">▪</g> And it is prayed that y<hi rend="sup">e</hi> Owners may not be unjustly Hindred from walling it in and makeing wharfs of it. On which Ships may throw out there Ballaſt to fitt them y<hi rend="sup">e</hi> better for taking in Coles<g ref="char:punc">▪</g> to which it is not deſired they should be any ways Oblidged but by theire ow<g ref="char:cmbAbbrStroke">̄</g>e convenience</p>
+                     <figure>
+                        <figDesc>depiction of a compass rose</figDesc>
+                     </figure>
+                     <p>Dean &amp; Chapter Weſt Leas</p>
+                     <p>Eaſt Dean bridg</p>
+                     <p>Dean &amp; Chapter Weſt Middle Deanes</p>
+                     <p>Dean &amp; Chapter Duddon houſe</p>
+                     <p>Dean &amp; Chapter Weſt Symond ſides</p>
+                     <p>Dean &amp; Chapter Salte Meadow</p>
+                     <p>Iarro</p>
+                     <p>A Scale of Furlongs and Chaine<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g>
+                     </p>
+                  </figure>
+               </p>
+               <pb facs="tcp:187880:2" rendition="simple:additions"/>
+               <p>
+                  <add>For making the River of Tyne nav<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gable</add>
+               </p>
+            </div>
+            <pb facs="tcp:187880:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
